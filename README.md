@@ -1,5 +1,5 @@
-# Developed by : YAMUNA M
-# Register Number : 212223230248
+# Developed by : DINESH S
+# Register Number : 212222230033
 # COLOR_CONVERSIONS_OF-IMAGE
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
